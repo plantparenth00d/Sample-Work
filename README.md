@@ -1,5 +1,5 @@
 # Sample Work
-These works were authored by Amber Medina, owner of this repository. Please direct any inqueries to (alouiseme@icloud.com)[mailto:alouiseme@icloud.com?subject=GitRepo%20Sample%20Works
+These works were authored by Amber Medina, owner of this repository. Please direct any inqueries to (alouiseme@icloud.com)[mailto:alouiseme@icloud.com?subject=GitRepo%20Sample%20Works]
 
 ## QC Analysis
 This folder contains artifacts of two projects completed in Spring of 2022. The first is an automated email weekly to a Program Manager outlining emerging issues in their state. 
