@@ -7,7 +7,7 @@ Runs Monday at 10:15 am ET overwriting a shared google sheet for the Program Man
 is being used as a means to track all responses on all forms by partner for the state tenant. Parameters set the script to pull from program start Jan.1st 2022.
 
 
-Scheduled Dashboard Update Job
+[Scheduled Dashboard Update Job](https://platform.civisanalytics.com/users/sign_in/#/exports/154571384)
 
 These queries run in parallel at the top of every hour, refreshing the Google Data Studio dashboard for National Program staff.
 
