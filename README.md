@@ -1,5 +1,5 @@
 # SampleQueries
 
-##QC Analysis
+## QC Analysis
 
-##Data Manager Scripting Task
+## Data Manager Scripting Task
