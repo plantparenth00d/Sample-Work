@@ -1,4 +1,3 @@
-# Data Manager Assessment
 
 # Section 1, Task 1: Scripting / Data Wrangling
 
