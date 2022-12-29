@@ -1,12 +1,5 @@
 # Data Manager Assessment
 
-Date Created: December 12, 2022 8:19 PM
-type: job
-
-Amber Medina
-
-12/12/2022
-
 # Section 1, Task 1: Scripting / Data Wrangling
 
 ### Prompt 1
